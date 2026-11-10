@@ -1,2 +1,2 @@
 # LindenOS
-LindenOS is an operating system focused on performance, optimization, and usability on low-end computers. It aims to provide a lightweight, efficient, and reliable computing experience by incorporating selected components and concepts from the Linux kernel and BSD systems, particularly OpenBSD and FreeBSD.
+LindenOS is an independent operating system designed with a strong focus on performance, optimization, and compatibility with low-end computers. Built from the ground up, it aims to provide a lightweight, efficient, and reliable computing environment with minimal resource consumption.
